@@ -1,0 +1,7 @@
+2;5;2;3;steli2;Tanithil;Crushed Stone;Coal;Iron Ore;Emerald;Emerald Ore;Wooden Handle;Leather Armor Plate;Fairy Dust;Purified Fairy Dust;Terrashrub;
+:0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+:750;50;750;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+:35;
+:15;25;150;35;35;
+:60;40;
+:35;100;15;
