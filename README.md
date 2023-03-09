@@ -1,5 +1,9 @@
-This is an older program I made when I still didn't know how to use the graphical framework I use today.
-There are a lot of menus to go through but here is what you need to know:
-The original idea of this program was to help make a "Trading" system, kind of like a marketplace, for our guild members, where they could contribute materials for our currency - Contribution Points (CP). Then, they could purchase whatever materials they needed
-In the program itself there is a list of players, and a list of materials in the categories: Mining, Smithing and Alchemy. The database saves information, such as how much a player has contributed in total, how much currency he currently owns, and what materials he has contributed with.
-The values for the item prices are easilty adjustable. The menus are very selfexplanatory. To change the menu you are currently in you can just hit the keayboard button required for it.
+This is a lightweight console application used for managing the materials for my guild in an MMORPG. 
+
+The idea is to provide a currency - Contribution Points (CP) that can be used as a means of trading in the guild. Player can exchange materials for CP, that can be also spent on getting items from the guild bank.
+
+To navigate, click on the indicated key in the menu.
+
+New items and players can be created when needed, and there is a cost rate that can be adjusted (items are bought for less than they are sold for). Items are separated into 3 major categories - Mining, Smithing and Alchemy.
+
+Once changes have been made press 'S' in the main menu to update the file with the information.
